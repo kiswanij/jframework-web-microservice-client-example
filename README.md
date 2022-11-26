@@ -25,5 +25,7 @@ The repository  contains the following main contents:
 7. [Faces View](src/main/webapp/index.xhtml)   
 8. [Main java class](src/main/java/com/app/App.java)  
 
+## Screenshots
 Thats it, now run your App class, in few seconds your browser will open and you should see something like this:
+
 ![Screenshot](screenshots/home.png)
