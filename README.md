@@ -1,5 +1,5 @@
 # Create Java WebApp with a Simple Microservice
-_Last updated: 2022-11-26_
+_Last updated: Aug 20, 2025_
 
 
 This repository contains a _JFramework-WebStack_ example that communicates with a Simple microservice backend.
